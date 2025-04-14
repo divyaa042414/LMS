@@ -1,0 +1,45 @@
+.c_curriculummaindiv {
+    margin-top: 1rem;
+    padding: auto;
+}
+
+.c_mainHeading {
+    font-size: x-large;
+}
+
+.c_heading {
+    display: inline-block;
+}
+
+.c_addcurriculumBtn {
+    height: 2.5rem;
+    display: inline-block;
+    /* margin-top: 2rem; */
+    margin-left: 0.7rem;
+    padding: auto;
+}
+
+.c_searchInput {
+    width: 15rem;
+    height: 2.5rem;
+}
+
+.c_searchMaindiv {
+    margin-left: 42.0rem;
+    display: inline-block;
+}
+
+.c_modal_addcurriculumBtn {
+    height: 2.5rem;
+
+}
+
+.c_modal_canelBtn {
+    height: 2.5rem;
+    margin-right: 0.5rem;
+    margin-left: 8.6rem;
+}
+
+.c_modalMainDiv {
+    margin-bottom: 0.5rem;
+}
